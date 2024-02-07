@@ -28,7 +28,6 @@ export default function Home() {
           alt="brand logo"
           className="animate-pulse md:hidden"
         />
-        {/* <div className="bg__container absolute z-10 h-1/2 w-full bg-cyan-200"></div> */}
       </div>
     </main>
   );
