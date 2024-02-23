@@ -4,7 +4,7 @@ import '../globals.css';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: 'Sync up your workspace | Sync',
+  title: 'Sync',
   description: '',
 };
 
