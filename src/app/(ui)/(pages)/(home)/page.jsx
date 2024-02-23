@@ -59,7 +59,8 @@ const HomePage = () => {
       <Toaster position="top-center" toastOptions={{ duration: 2000 }} />
       <div className="heading__container">
         <h1 className={`${prosto_one.className}`}>
-          Unite, Create, Innovate, Sync
+          {/* Unite, Create, Innovate, Sync */}
+          Bridging gaps for visionary minds!
         </h1>
       </div>
       <div className="contact-form__container">
